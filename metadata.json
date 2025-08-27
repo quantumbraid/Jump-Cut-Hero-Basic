@@ -1,0 +1,8 @@
+{
+  "name": "Jump Cut Hero",
+  "description": "An intelligent video recorder that automatically removes silent pauses, creating jump-cut style videos without any manual editing. Just record, and the app pauses during dead air, delivering a tightly edited video ready for download.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

@@ -1,0 +1,8 @@
+
+export enum RecordingState {
+  IDLE = 'IDLE',
+  CALIBRATING = 'CALIBRATING',
+  RECORDING = 'RECORDING',
+  PAUSED = 'PAUSED',
+  STOPPED = 'STOPPED',
+}
